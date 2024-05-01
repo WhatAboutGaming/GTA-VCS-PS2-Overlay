@@ -1,0 +1,27 @@
+{
+  "webserver_port": 8080,
+  "github_message": "The source code for GTA VCS PS2 Overlay can be found here:",
+  "github_repo": "https://github.com/WhatAboutGaming/GTA-VCS-PS2-Overlay",
+  "options": {
+    "debug": true,
+    "messagesLogLevel": "info"
+  },
+  "connection": {
+    "reconnect": true,
+    "secure": true
+  },
+  "identity": {
+    "username": "justinfan123",
+    "password": "OAUTHOAUTHOAUTHOAUTHOAUTHOAUTH"
+  },
+  "channels": [
+    "justinfan123"
+  ],
+  "main_channel": "main_channel_name",
+  "debug_channel": "debug_channel_name",
+  "channel_owner": "channel_owner_name",
+  "logchat": false,
+  "trusted_users": [
+    "trusted_user_id"
+  ]
+}

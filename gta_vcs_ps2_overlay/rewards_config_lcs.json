@@ -1,0 +1,174 @@
+{
+  "rewards": [
+    {
+      "reward_description": "Warp to a specific place in map",
+      "custom_reward_id": "fafb0852-e8d8-4917-bd49-c03f8120d087",
+      "action": "warp",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Player Health",
+      "custom_reward_id": "1e45a207-b115-486b-a8ac-b7eff7559342",
+      "action": "player_health",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Vehicle Health",
+      "custom_reward_id": "0d7b2260-4ced-4f55-8d50-7c0d5231c13a",
+      "action": "vehicle_health",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Beyblade",
+      "custom_reward_id": "7f617057-c464-48ab-82de-36291f939812",
+      "action": "spin_car",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Vehicle Color",
+      "custom_reward_id": "356b3e8f-cece-4dab-ab87-18b34c239dd3",
+      "action": "vehicle_color",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Flip Vehicle Upside Down",
+      "custom_reward_id": "1bcc7b7c-202a-439f-af14-474e66aeaa87",
+      "action": "flip_vehicle",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Turn Around",
+      "custom_reward_id": "781a2b1e-76bb-4649-ae86-d1978584f741",
+      "action": "turn_around",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Speed",
+      "custom_reward_id": "6973b617-8904-4015-aabc-29c1965c6876",
+      "action": "change_speed",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Radio Station",
+      "custom_reward_id": "bd21bc83-090e-4f05-8167-a5b48016675f",
+      "action": "radio_station",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Add Vehicle To Garage",
+      "custom_reward_id": "638b50f6-d32d-4cbe-b731-27f299a34541",
+      "action": "add_vehicle_to_garage",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Take All Weapons Away",
+      "custom_reward_id": "93da7434-3e29-4cc6-bba5-da31aa46ee2f",
+      "action": "take_weapons_away",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Wanted Level",
+      "custom_reward_id": "46c5637a-a5b9-4826-b9be-40f74070276a",
+      "action": "change_wanted_level",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Time",
+      "custom_reward_id": "fc595880-3947-43ab-8cfb-144a058bc49e",
+      "action": "change_time",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Change Armor",
+      "custom_reward_id": "2f0f994f-c628-4155-8c3c-e0c0d982b343",
+      "action": "player_armor",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Freeze Movement",
+      "custom_reward_id": "dab039eb-8022-4d87-8b96-eba0185ba77a",
+      "action": "freeze_movement",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Throw All Vehicles On Player",
+      "custom_reward_id": "30089a56-c0f4-4351-9e38-885e5f9a2e27",
+      "action": "drop_vehicle_pool_on_player",
+      "timed_action": 0,
+      "countdown": 0,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    },
+    {
+      "reward_description": "Extreme Beyblade",
+      "custom_reward_id": "11f33886-a0dd-445b-8c47-0c1d30a3ad43",
+      "action": "spin_all_vehicles",
+      "timed_action": 0,
+      "countdown": 59000,
+      "queued_action": false,
+      "wait_for_conditions_to_be_met": false,
+      "cooldown": 0
+    }
+  ]
+}
