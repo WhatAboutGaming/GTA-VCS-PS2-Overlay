@@ -23,5 +23,31 @@
   "logchat": false,
   "trusted_users": [
     "trusted_user_id"
+  ],
+  "beep_sound_effects": [
+    {
+      "enabled": true,
+      "file_names": [
+        "watch_beep_1.mp3",
+        "watch_beep_2.mp3"
+      ],
+      "type": "hourly"
+    },
+    {
+      "enabled": true,
+      "file_names": [
+        "watch_beep_1_short.mp3",
+        "watch_beep_2_short.mp3"
+      ],
+      "type": "secondary"
+    }
+  ],
+  "do_not_load": [
+    "watch_beep_1.mp3",
+    "watch_beep_2.mp3",
+    "watch_beep_1_short.mp3",
+    "watch_beep_2_short.mp3",
+    "watch_beep_1_long.mp3",
+    "watch_beep_2_long.mp3"
   ]
 }
