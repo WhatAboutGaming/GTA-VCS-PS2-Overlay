@@ -1,7 +1,7 @@
 {
-  "process_name": "pcsx2.exe",
-  "base_address": "0x20000000",
-  "end_address": "0x22000000",
+  "process_name": "pcsx2-qtx64-avx2.exe",
+  "base_address": "0x00007FF6F0000000",
+  "end_address": "0x00007FF6F8F00000",
   "base_pointer_address": "0x01000000",
   "end_pointer_address": "0x02000000",
   "override_game_settings": true,
@@ -1514,7 +1514,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": -1,
-      "to_display": false,
+      "to_display": true,
       "to_override": false,
       "value_to_override_with": -1
     },
@@ -1535,7 +1535,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": 2,
-      "to_display": true,
+      "to_display": false,
       "to_override": false,
       "value_to_override_with": -1
     },
@@ -1556,7 +1556,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": 2,
-      "to_display": true,
+      "to_display": false,
       "to_override": false,
       "value_to_override_with": -1
     },
@@ -1577,7 +1577,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": 2,
-      "to_display": true,
+      "to_display": false,
       "to_override": false,
       "value_to_override_with": -1
     },
@@ -1598,7 +1598,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": 2,
-      "to_display": true,
+      "to_display": false,
       "to_override": false,
       "value_to_override_with": -1
     },
@@ -1619,7 +1619,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": 2,
-      "to_display": true,
+      "to_display": false,
       "to_override": false,
       "value_to_override_with": -1
     },
@@ -1640,7 +1640,7 @@
       "prepend_string": "",
       "append_string": "",
       "decimal_places_to_display": 2,
-      "to_display": true,
+      "to_display": false,
       "to_override": false,
       "value_to_override_with": -1
     },
