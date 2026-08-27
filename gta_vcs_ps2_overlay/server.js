@@ -1990,6 +1990,7 @@ function checkIfAppExists() {
     */
     for (let gameMemoryToDisplayIndex = 0; gameMemoryToDisplayIndex < gameMemoryToDisplay.length; gameMemoryToDisplayIndex++) {
       let objectToReadFromMemory = readFromAppMemory(gameMemoryToDisplay[gameMemoryToDisplayIndex].address_name);
+      gameMemoryToDisplay[gameMemoryToDisplayIndex] = objectToReadFromMemory;
       if (objectToReadFromMemory.current_value !== objectToReadFromMemory.old_value) {
         //console.log("Data updated at gameMemoryToDisplayIndex = " + gameMemoryToDisplayIndex);
         //console.log(objectToReadFromMemory);
