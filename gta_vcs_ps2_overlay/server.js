@@ -1845,6 +1845,10 @@ function checkIfAppExists() {
         //console.log(doNotLoadArray[doNotLoadArrayIndex]);
       }
       //console.log(overlayMp3FilesOnly);
+      gameMemoryToDisplay = [];
+      gameMemoryToOverride = [];
+      characterData = [];
+      controlCharacterData = [];
       processObject = memoryjs.openProcess(processName);
       for (let gameMemoryObjectIndex = 0; gameMemoryObjectIndex < gameMemory.memory_data.length; gameMemoryObjectIndex++) {
         if (gameMemory.memory_data[gameMemoryObjectIndex].to_override == true) {
